@@ -4,6 +4,7 @@ Airbnb is a marketing company that acts as a broker to provide short-term homest
 ## Goals
 Our client is a successful investment and venture capital firm based in New York, owns several successful businesses and now wants to invest in new york based Airbnbs but wants to understand in-depth knowledge and information about the market before strategic decision making.
 ## Specifications
-This project will use data from Kaggle:
+This project will use open source data of year 2019 from Kaggle:
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 The dataset of 48,896 rows contains information about location, room type, prices, reviews, availability, and host information.

@@ -8,3 +8,4 @@ This project will use open source data of year 2019 from Kaggle:
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 The dataset of 48,896 rows contains information about location, room type, prices, reviews, availability, and host information.
+<img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/New_York_City_Map.png"></img>

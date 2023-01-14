@@ -16,6 +16,7 @@ The dataset of 48,896 rows contains information about location, room type, price
 ## Continous Variable Relationship with Price
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Continous%20Variable%20Relationship%20with%20Price%20Plot.png" height="500"></img>
 
+## Correlation Matrix
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Correlation%20Matrix.jpg"></img>
 
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Word%20Cloud.jpg"></img>

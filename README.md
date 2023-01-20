@@ -19,7 +19,9 @@ The dataset of 48,896 rows contains information about location, room type, price
 
 ## Correlation Matrix
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Correlation%20Matrix.jpg"></img>
-
+## Wordcloud
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Word%20Cloud.jpg"></img>
-
+## Metrics
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Absolute%20Error_MSE.jpg"></img>
+<img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Square%20Error_MSE.jpg"></img>
+<img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/R2_Score.jpg"></img>

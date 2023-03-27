@@ -11,7 +11,6 @@ The dataset of 48,896 rows contains information about location, room type, price
 
 ## New York Map
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/New_York_City_Map.png" width="800" height="600"></img>
-
 ## Neighbourhood
 <img src = "https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Neighbourhood%20Plot.png">
 

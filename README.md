@@ -25,4 +25,3 @@ The dataset of 48,896 rows contains information about location, room type, price
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Absolute%20Error_MSE.jpg"></img>
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Square%20Error_MSE.jpg"></img>
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/R2_Score.jpg"></img>
-

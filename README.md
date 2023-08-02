@@ -26,6 +26,12 @@ The dataset of 48,896 rows contains information about location, room type, price
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Square%20Error_MSE.jpg"></img>
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/R2_Score.jpg"></img>
 
+| Model  | Mean Squared Error | R2 Score  | Mean Absolute Error |
+| ------------- | ------------- | ------------- | ------------- |
+| Linear Regression  | 0.22 | 40.58 | 0.17 |
+
+
+
 
  Model                        |   Mean Squared Error |   R2 Score |   Mean Absolute Error
 ------------------------------+----------------------+------------+-----------------------
@@ -37,3 +43,5 @@ The dataset of 48,896 rows contains information about location, room type, price
  Gradient Boosting Regression |                 0.19 |      57.31 |                  0.14
  
 ### We can see that the Gradient Boosting Regression model has the highest R2 score value and the least error. Hence it is the best model for our Airbnb project.
+
+| Topic  | Summary |

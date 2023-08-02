@@ -2,9 +2,9 @@
 ## Overview
 Airbnb is a marketing company that acts as a broker to provide short-term homestay experiences that offer several advantages like exposure to everyday life in another location, and the opportunity to experience local culture and traditions. Multiple reports forecast an increase in future Airbnb market capital and revenue with a growing economy.
 ## Goals
-Our client is a successful investment and venture capital firm based in New York, owns several successful businesses and now wants to invest in new york based Airbnbs but wants to understand in-depth knowledge and information about the market before strategic decision making.
+Our client is a successful investment and venture capital firm based in New York, owns several successful businesses and now wants to invest in new york based Airbnbs but wants to understand in-depth knowledge and information about the market before strategic decision-making.
 ## Specifications
-This project will use open source data of year 2019 from Kaggle:
+This project will use open-source data of the year 2019 from Kaggle:
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 The dataset of 48,896 rows contains information about location, room type, prices, reviews, availability, and host information.
@@ -25,3 +25,15 @@ The dataset of 48,896 rows contains information about location, room type, price
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Absolute%20Error_MSE.jpg"></img>
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/Mean%20Square%20Error_MSE.jpg"></img>
 <img src="https://github.com/ttariqaziz/nyc_airbnb_capstone/blob/main/Plots/R2_Score.jpg"></img>
+
+
+ Model                        |   Mean Squared Error |   R2 Score |   Mean Absolute Error
+------------------------------+----------------------+------------+-----------------------
+ Linear Regression            |                 0.22 |      40.58 |                  0.17
+ Decision Tree                |                 0.21 |      48.2  |                  0.15
+ Bayesian Regression          |                 0.22 |      40.58 |                  0.17
+ Ridge Regression             |                 0.22 |      40.58 |                  0.17
+ Lasso Regression             |                 0.22 |      40.58 |                  0.17
+ Gradient Boosting Regression |                 0.19 |      57.31 |                  0.14
+ 
+### We can see that the Gradient Boosting Regression model has the highest R2 score value and the least error. Hence it is the best model for our Airbnb project.

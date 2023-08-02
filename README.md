@@ -34,7 +34,7 @@ The dataset of 48,896 rows contains information about location, room type, price
 | Ridge Regression  | 0.22 | 40.58 | 0.17 |
 | Lasso Regression  | 0.22 | 40.58 | 0.17 |
 | Gradient Boosting Regression  | 0.19 | 57.31 | 0.14 |
+| ------------- | ------------- | ------------- | ------------- |
 
- 
 ### We can see that the Gradient Boosting Regression model has the highest R2 score value and the least error. Hence it is the best model for our Airbnb project.
 

@@ -9,7 +9,6 @@ This project will use [open-source data](https://www.kaggle.com/datasets/dgomono
 The dataset of 48,896 rows contains information about location, room type, prices, reviews, availability, and host information.
 ## Project Structure
 ```
-📦 
 1. Data Wrangling.ipynb
 1. Data_Wrangling New.ipynb
 ├─ 2_Exploratory_data_analysis_EDA.ipynb
